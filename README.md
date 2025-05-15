@@ -123,20 +123,7 @@ The application will run on `http://0.0.0.0:5000`.
 - **Debugging**: Ensure Flask is running in debug mode to capture detailed logs.
 - **Permissions**: Verify that the application has write permissions for the directories used for storing files.
 
-## License Agreement
 
-Copyright © 2025  
-All rights reserved. Maddi Rishi Dhaneswar
-
-This software and its associated documentation are proprietary and confidential.  
-Unauthorized use, reproduction, distribution, or modification of any part of this codebase is strictly prohibited without explicit written permission from the owner (Maddi Rishi Dhaneswar).
-
-This repository is shared for academic evaluation and publication purposes only.
-
-If you wish to collaborate, request access, or seek clarification, please contact:  
-maddi.rishi2468@gmail.com
-
-No license is granted by implication, estoppel, or otherwise.
 
 
 ![WhatsApp Image 2025-05-15 at 12 14 16_fb7efc68](https://github.com/user-attachments/assets/f5eadcc6-d86d-4631-94eb-fc1eee8a3e95)
