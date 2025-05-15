@@ -1,7 +1,3 @@
-Here's the complete README file with your custom license agreement included:
-
----
-
 # NavigAid
 
 NavigAid is an IoT-based navigation support system designed to assist users by processing visual and audio data to provide real-time navigation instructions. The system leverages decentralized sensing with centralized processing to ensure efficient operation.
